@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UseAAR</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="btn_open">open</string>
+	<string name="btn_print">print</string>
+	<string name="btn_close">close</string>
+
+	
+	<string name="btn_already_open">already_open</string>
+
+	<string name="btn_already_close">already_close</string>
+	
+	
+</resources>
