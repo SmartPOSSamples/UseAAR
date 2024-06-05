@@ -94,7 +94,7 @@ namespace UseAAR
                     "165232857468 000001<br />" +
                     "VOUCHER AUTH NO<br />" +
                     "000042<br />" +
-                    "AMOUT:<br />" +
+                    "AMOUNT:<br />" +
                     "RMB:0.01<br />" +
                     "<hr/>" +
                     "BEIZHU<br />" +
@@ -112,9 +112,9 @@ namespace UseAAR
                     "IAD:07010103602002010A01000000000005DD79CB<br />" +
                     "TermCap:EOE1C8<br />" +
                     "CARD HOLDER SIGNATURE<br />" +
-                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICE<br />" +
-                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICE<br />" +
-                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICE<br />" +
+                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICES<br />" +
+                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICES<br />" +
+                    "I ACKNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERVICES<br />" +
                     "<br />" +
                     "Demo receipts,do not sign!<br />" +
                     "<br />" +
