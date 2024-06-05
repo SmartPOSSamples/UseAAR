@@ -9,7 +9,7 @@
 	
 	<string name="btn_already_open">already_open</string>
 
-	<string name="btn_already_close">already_close</string>
+	<string name="btn_already_close">already_closed</string>
 	
 	
 </resources>
